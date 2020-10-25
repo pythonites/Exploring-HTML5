@@ -1,5 +1,5 @@
-# Exploring-HTML5
-Show your HTML5 SKILLS here..</br>
-You can add anything you know about **HTML**, **CSS** & **JS**.
+# Personal Portfolio Template
 
-## CONTRIBUTE TO OPEN SOURCE
+This repo contained basic code that anyone can fork and make his/her portfolio site
+
+## contribute to this open source project.
